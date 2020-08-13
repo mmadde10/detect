@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d15a16e4-9b69-4e25-be4f-47ece4fb749a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/detectpeoplemadden",
+    "appService.deploySubpath": "."
+}
